@@ -108,13 +108,6 @@ The analysis shows that:
 
 ---
 
-## 🚀 Future Improvements
-
-* Add interactive dashboards using Power BI or Tableau
-* Perform predictive analysis (sales forecasting)
-* Segment customers using clustering
-
----
 
 ## 📎 How to Run
 
